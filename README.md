@@ -5,6 +5,8 @@ Here are my stats.
 
 ![Sai25Hajime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai25Hajime&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sai25Hajime&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai25Hajime&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sai25Hajime&theme=radical)
+
